@@ -21,7 +21,7 @@
      * Drumstick 2
      
   ### Image
-  ![Annamacharya] (https://en.wikipedia.org/wiki/Annamacharya#/media/File:Annamacharya.jpg) 
+  ![Annamacharya] (http://www.andhraportal.org/wp-content/uploads/2015/05/annamayya.jpg)
   ### Links
   [Github](http://github.com)
   
