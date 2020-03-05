@@ -1,6 +1,6 @@
 # Annamacharya
 ## Institute of
-###Technology &
+### Technology &
 #### Sciences
 ##### (Atanomus)
 
